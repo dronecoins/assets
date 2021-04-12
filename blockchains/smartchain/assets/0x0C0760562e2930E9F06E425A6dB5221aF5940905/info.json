@@ -1,0 +1,11 @@
+{
+    "name": "Drone",
+    "symbol": "DRONE",
+    "type": "BEP20",
+    "decimals": 6,
+    "description": "",
+    "website": "https://dronecoin.ai/",
+    "explorer": "https://bscscan.com/token/0x0c0760562e2930e9f06e425a6db5221af5940905",
+    "status": "active",
+    "id": "0x0c0760562e2930e9f06e425a6db5221af5940905"
+}
