@@ -1,0 +1,11 @@
+{
+    "name": "Safron",
+    "symbol": "SFN",
+    "type": "ERC20",
+    "decimals": 0,
+    "description": "-",
+    "website": "http://safroninc.com/",
+    "explorer": "https://etherscan.io/token/0x9f6de04bb70be45bf98c75ada6d9ecfc0b83ca8f",
+    "status": "active",
+    "id": "0x9f6de04bb70be45bf98c75ada6d9ecfc0b83ca8f"
+}
